@@ -58,6 +58,9 @@
 
 #define SOFTI2DMASTER_H_
 
+#define SCL_PIN 5
+#define SCL_PORT PORTB
+
 #include <avr/io.h>
 #include <Arduino.h>
 
